@@ -24,15 +24,21 @@
           <mj-text><ol>
             <li><b>Le sponsoring :</b> Une manière originale d'accroître votre visibilité auprès du grand public mais aussi d’expert·e·s et de professionnel·le·s dans le domaine du numérique. Votre soutien sera mis en avant sur notre page dédiée aux sponsors de l'événement, ainsi que sur nos supports de communication (affiches et programmes, web et papier). D'autres contreparties peuvent être envisagées au cas par cas.</li>
             <li><b>Le financement participatif</b> via la plateforme helloasso.</li>
-            <li><b>Une participation matérielle :</b> Du matériel informatique sera toujours le bienvenu, en prêt ou en don ! Quelques exemples : haut parleur, casque, câble HDMI et VGA, PC (écran et clavier), câble Ethernet, adaptateur VGA et HDMI, Raspberry Pi, carte wifi, vidéoprojecteurs...</li>
-            <li><b>Un relais de communication :</b> Afin de toucher chaque année un public toujours plus diversifié et nombreux, la communication est un enjeu capital. Du bouche-à-oreille au relais sur les réseaux sociaux, de l'affichage à l'article de presse, toute aide dans ce domaine sera la bienvenue et appréciée à sa juste valeur !</li>
-            <li><b>Un soutien humain :</b> Libristes averti·e·s ou non, tout le monde trouve sa place au sein des bénévoles des JdLL ! Envoyez-nous vos disponibilités du week-end des 03 et 04 avril, pour que nous vous trouvions un poste adapté à vos talents et vos intérêts.</li>
           </ol></mj-text>
         </mj-column>
       </mj-section>
       <mj-section>
         <mj-column><mj-button href="https://jdll.org/soutenir">Sponsoring</mj-button></mj-column>
         <mj-column><mj-button href="https://www.helloasso.com/associations/aldil/collectes/jdll-2021-logiciel-libre-utopies-concretes-et-accessibles">HelloAsso</mj-button></mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text><ol start="3">
+            <li><b>Une participation matérielle :</b> Du matériel informatique sera toujours le bienvenu, en prêt ou en don ! Quelques exemples : haut parleur, casque, câble HDMI et VGA, PC (écran et clavier), câble Ethernet, adaptateur VGA et HDMI, Raspberry Pi, carte wifi, vidéoprojecteurs...</li>
+            <li><b>Un relais de communication :</b> Afin de toucher chaque année un public toujours plus diversifié et nombreux, la communication est un enjeu capital. Du bouche-à-oreille au relais sur les réseaux sociaux, de l'affichage à l'article de presse, toute aide dans ce domaine sera la bienvenue et appréciée à sa juste valeur !</li>
+            <li><b>Un soutien humain :</b> Libristes averti·e·s ou non, tout le monde trouve sa place au sein des bénévoles des JdLL ! Envoyez-nous vos disponibilités du week-end des 03 et 04 avril, pour que nous vous trouvions un poste adapté à vos talents et vos intérêts.</li>
+          </ol></mj-text>
+        </mj-column>
       </mj-section>
       <mj-section>
         <mj-column>
